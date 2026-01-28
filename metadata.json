@@ -1,0 +1,7 @@
+{
+  "name": "Private Agent Architect",
+  "description": "A hybrid AI-powered web application builder that orchestrates cloud reasoning with local privacy and execution using Ollama and Hugging Face.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
